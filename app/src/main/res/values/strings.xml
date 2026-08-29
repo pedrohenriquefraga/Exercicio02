@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercício02</string>
+    <string name="adulto" />
+    <string name="infantil" />
+    <string name="altura" />
+    <string name="peso" />
+</resources>
